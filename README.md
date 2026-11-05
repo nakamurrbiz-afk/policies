@@ -7,6 +7,7 @@ App Store / Google Play に提出するプライバシーポリシーの公開�
 |---|---|
 | ペースロッカー | https://nakamurrbiz-afk.github.io/policies/pacelock/ |
 | ParkWash | https://nakamurrbiz-afk.github.io/policies/parkwash/ （プライバシー `privacy/`・サポート `support/`・利用規約 `terms/`） |
+| あゆみ | https://nakamurrbiz-afk.github.io/policies/ayumi/ （サポート `index.html`・プライバシー `privacy.html`） |
 
 ## 更新のしかた
 
@@ -31,3 +32,12 @@ node scripts/sync-policies.mjs ../policies   # site/ をこのリポジトリの
 ```
 
 本文の唯一の出典は parkwash の `legal/*.md` です。弁護士レビューが済むまでは各ページに「下書き」の帯が出ます。
+
+あゆみの場合:
+
+```
+# ayumi リポジトリで
+node scripts/sync-policies.mjs ../policies   # site/ をこのリポジトリの ayumi/ に写す
+```
+
+本文の唯一の出典は ayumi の `site/` です。

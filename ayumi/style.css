@@ -1,0 +1,12 @@
+:root { --bg: #E8E5DE; --fg: #24221D; --muted: #6B675E; --line: #D2CEC5; --accent: #8C6A2A; color-scheme: light; }
+@media (prefers-color-scheme: dark) { :root { --bg: #121210; --fg: #E6E2D9; --muted: #9A958B; --line: #2A2925; --accent: #D8B067; color-scheme: dark; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: "Zen Kaku Gothic New", "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif; font-size: 16px; line-height: 1.85; padding: 40px max(20px, env(safe-area-inset-left, 0px)) 64px max(20px, env(safe-area-inset-right, 0px)); }
+main { max-width: 40em; margin: 0 auto; }
+h1 { font-family: "DotGothic16", "Zen Kaku Gothic New", sans-serif; font-weight: 400; font-size: 2rem; letter-spacing: .14em; margin: 0 0 4px; }
+h2 { font-size: 1.1rem; margin: 2em 0 .4em; padding-bottom: .3em; border-bottom: 1px solid var(--line); }
+p, li { margin: .5em 0; }
+.lead { color: var(--muted); margin-top: 0; }
+a { color: var(--accent); }
+nav { display: flex; gap: 18px; margin: 18px 0 8px; font-size: .9rem; }
+footer { margin-top: 3em; color: var(--muted); font-size: .85rem; }
