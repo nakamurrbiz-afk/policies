@@ -1,0 +1,1177 @@
+{
+ "name": "ちいさな歩み 世界編の国の位置",
+ "license": "Open Database License (ODbL) v1.0 https://opendatacommons.org/licenses/odbl/1-0/",
+ "source": "world-countries by Mohammed Le Doze (https://github.com/mledoze/countries), ODbL v1.0. Extracted fields cca2, latlng, subregion for 195 countries and reordered as the in-app route.",
+ "countries": [
+  {
+   "cca2": "JP",
+   "lat": 35.68,
+   "lng": 139.69,
+   "subregion": "Eastern Asia"
+  },
+  {
+   "cca2": "KR",
+   "lat": 37,
+   "lng": 127.5,
+   "subregion": "Eastern Asia"
+  },
+  {
+   "cca2": "KP",
+   "lat": 40,
+   "lng": 127,
+   "subregion": "Eastern Asia"
+  },
+  {
+   "cca2": "RU",
+   "lat": 60,
+   "lng": 100,
+   "subregion": "Eastern Europe"
+  },
+  {
+   "cca2": "MN",
+   "lat": 46,
+   "lng": 105,
+   "subregion": "Eastern Asia"
+  },
+  {
+   "cca2": "CN",
+   "lat": 35,
+   "lng": 105,
+   "subregion": "Eastern Asia"
+  },
+  {
+   "cca2": "LA",
+   "lat": 18,
+   "lng": 105,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "VN",
+   "lat": 16.17,
+   "lng": 107.83,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "KH",
+   "lat": 13,
+   "lng": 105,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "TH",
+   "lat": 15,
+   "lng": 100,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "MM",
+   "lat": 22,
+   "lng": 98,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "BD",
+   "lat": 24,
+   "lng": 90,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "BT",
+   "lat": 27.5,
+   "lng": 90.5,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "NP",
+   "lat": 28,
+   "lng": 84,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "IN",
+   "lat": 20,
+   "lng": 77,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "PK",
+   "lat": 30,
+   "lng": 70,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "AF",
+   "lat": 33,
+   "lng": 65,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "TJ",
+   "lat": 39,
+   "lng": 71,
+   "subregion": "Central Asia"
+  },
+  {
+   "cca2": "KG",
+   "lat": 41,
+   "lng": 75,
+   "subregion": "Central Asia"
+  },
+  {
+   "cca2": "KZ",
+   "lat": 48,
+   "lng": 68,
+   "subregion": "Central Asia"
+  },
+  {
+   "cca2": "UZ",
+   "lat": 41,
+   "lng": 64,
+   "subregion": "Central Asia"
+  },
+  {
+   "cca2": "TM",
+   "lat": 40,
+   "lng": 60,
+   "subregion": "Central Asia"
+  },
+  {
+   "cca2": "IR",
+   "lat": 32,
+   "lng": 53,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "AZ",
+   "lat": 40.5,
+   "lng": 47.5,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "AM",
+   "lat": 40,
+   "lng": 45,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "GE",
+   "lat": 42,
+   "lng": 43.5,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "TR",
+   "lat": 39,
+   "lng": 35,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "CY",
+   "lat": 35,
+   "lng": 33,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "PS",
+   "lat": 31.9,
+   "lng": 35.2,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "IL",
+   "lat": 31.47,
+   "lng": 35.13,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "JO",
+   "lat": 31,
+   "lng": 36,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "LB",
+   "lat": 33.83,
+   "lng": 35.83,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "SY",
+   "lat": 35,
+   "lng": 38,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "IQ",
+   "lat": 33,
+   "lng": 44,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "KW",
+   "lat": 29.5,
+   "lng": 45.75,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "SA",
+   "lat": 25,
+   "lng": 45,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "BH",
+   "lat": 26,
+   "lng": 50.55,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "QA",
+   "lat": 25.5,
+   "lng": 51.25,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "AE",
+   "lat": 24,
+   "lng": 54,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "OM",
+   "lat": 21,
+   "lng": 57,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "YE",
+   "lat": 15,
+   "lng": 48,
+   "subregion": "Western Asia"
+  },
+  {
+   "cca2": "SO",
+   "lat": 10,
+   "lng": 49,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "DJ",
+   "lat": 11.5,
+   "lng": 43,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "ER",
+   "lat": 15,
+   "lng": 39,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "ET",
+   "lat": 8,
+   "lng": 38,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "KE",
+   "lat": 1,
+   "lng": 38,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "TZ",
+   "lat": -6,
+   "lng": 35,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "BI",
+   "lat": -3.5,
+   "lng": 30,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "RW",
+   "lat": -2,
+   "lng": 30,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "UG",
+   "lat": 1,
+   "lng": 32,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "CD",
+   "lat": 0,
+   "lng": 25,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "CG",
+   "lat": -1,
+   "lng": 15,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "GA",
+   "lat": -1,
+   "lng": 11.75,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "ST",
+   "lat": 1,
+   "lng": 7,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "GQ",
+   "lat": 2,
+   "lng": 10,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "CM",
+   "lat": 6,
+   "lng": 12,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "NG",
+   "lat": 10,
+   "lng": 8,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "BJ",
+   "lat": 9.5,
+   "lng": 2.25,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "TG",
+   "lat": 8,
+   "lng": 1.17,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "GH",
+   "lat": 8,
+   "lng": -2,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "CI",
+   "lat": 8,
+   "lng": -5,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "LR",
+   "lat": 6.5,
+   "lng": -9.5,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "SL",
+   "lat": 8.5,
+   "lng": -11.5,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "GN",
+   "lat": 11,
+   "lng": -10,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "SN",
+   "lat": 14,
+   "lng": -14,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "GW",
+   "lat": 12,
+   "lng": -15,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "GM",
+   "lat": 13.47,
+   "lng": -16.57,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "CV",
+   "lat": 16,
+   "lng": -24,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "MR",
+   "lat": 20,
+   "lng": -12,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "ML",
+   "lat": 17,
+   "lng": -4,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "BF",
+   "lat": 13,
+   "lng": -2,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "NE",
+   "lat": 16,
+   "lng": 8,
+   "subregion": "Western Africa"
+  },
+  {
+   "cca2": "TD",
+   "lat": 15,
+   "lng": 19,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "CF",
+   "lat": 7,
+   "lng": 21,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "SS",
+   "lat": 7,
+   "lng": 30,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "SD",
+   "lat": 15,
+   "lng": 30,
+   "subregion": "Northern Africa"
+  },
+  {
+   "cca2": "EG",
+   "lat": 27,
+   "lng": 30,
+   "subregion": "Northern Africa"
+  },
+  {
+   "cca2": "LY",
+   "lat": 25,
+   "lng": 17,
+   "subregion": "Northern Africa"
+  },
+  {
+   "cca2": "MT",
+   "lat": 35.83,
+   "lng": 14.58,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "TN",
+   "lat": 34,
+   "lng": 9,
+   "subregion": "Northern Africa"
+  },
+  {
+   "cca2": "DZ",
+   "lat": 28,
+   "lng": 3,
+   "subregion": "Northern Africa"
+  },
+  {
+   "cca2": "MA",
+   "lat": 32,
+   "lng": -5,
+   "subregion": "Northern Africa"
+  },
+  {
+   "cca2": "PT",
+   "lat": 39.5,
+   "lng": -8,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "ES",
+   "lat": 40,
+   "lng": -4,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "AD",
+   "lat": 42.5,
+   "lng": 1.5,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "FR",
+   "lat": 46,
+   "lng": 2,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "CH",
+   "lat": 47,
+   "lng": 8,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "LI",
+   "lat": 47.27,
+   "lng": 9.53,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "MC",
+   "lat": 43.73,
+   "lng": 7.4,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "VA",
+   "lat": 41.9,
+   "lng": 12.45,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "IT",
+   "lat": 42.83,
+   "lng": 12.83,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "SM",
+   "lat": 43.77,
+   "lng": 12.42,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "HR",
+   "lat": 45.17,
+   "lng": 15.5,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "SI",
+   "lat": 46.12,
+   "lng": 14.82,
+   "subregion": "Central Europe"
+  },
+  {
+   "cca2": "AT",
+   "lat": 47.33,
+   "lng": 13.33,
+   "subregion": "Central Europe"
+  },
+  {
+   "cca2": "CZ",
+   "lat": 49.75,
+   "lng": 15.5,
+   "subregion": "Central Europe"
+  },
+  {
+   "cca2": "PL",
+   "lat": 52,
+   "lng": 20,
+   "subregion": "Central Europe"
+  },
+  {
+   "cca2": "SK",
+   "lat": 48.67,
+   "lng": 19.5,
+   "subregion": "Central Europe"
+  },
+  {
+   "cca2": "HU",
+   "lat": 47,
+   "lng": 20,
+   "subregion": "Central Europe"
+  },
+  {
+   "cca2": "RS",
+   "lat": 44,
+   "lng": 21,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "BA",
+   "lat": 44,
+   "lng": 18,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "ME",
+   "lat": 42.5,
+   "lng": 19.3,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "AL",
+   "lat": 41,
+   "lng": 20,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "GR",
+   "lat": 39,
+   "lng": 22,
+   "subregion": "Southern Europe"
+  },
+  {
+   "cca2": "MK",
+   "lat": 41.83,
+   "lng": 22,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "BG",
+   "lat": 43,
+   "lng": 25,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "RO",
+   "lat": 46,
+   "lng": 25,
+   "subregion": "Southeast Europe"
+  },
+  {
+   "cca2": "MD",
+   "lat": 47,
+   "lng": 29,
+   "subregion": "Eastern Europe"
+  },
+  {
+   "cca2": "UA",
+   "lat": 49,
+   "lng": 32,
+   "subregion": "Eastern Europe"
+  },
+  {
+   "cca2": "BY",
+   "lat": 53,
+   "lng": 28,
+   "subregion": "Eastern Europe"
+  },
+  {
+   "cca2": "LT",
+   "lat": 56,
+   "lng": 24,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "LV",
+   "lat": 57,
+   "lng": 25,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "EE",
+   "lat": 59,
+   "lng": 26,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "FI",
+   "lat": 64,
+   "lng": 26,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "SE",
+   "lat": 62,
+   "lng": 15,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "NO",
+   "lat": 62,
+   "lng": 10,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "DK",
+   "lat": 56,
+   "lng": 10,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "NL",
+   "lat": 52.5,
+   "lng": 5.75,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "DE",
+   "lat": 51,
+   "lng": 9,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "LU",
+   "lat": 49.75,
+   "lng": 6.17,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "BE",
+   "lat": 50.83,
+   "lng": 4,
+   "subregion": "Western Europe"
+  },
+  {
+   "cca2": "GB",
+   "lat": 54,
+   "lng": -2,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "IE",
+   "lat": 53,
+   "lng": -8,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "IS",
+   "lat": 65,
+   "lng": -18,
+   "subregion": "Northern Europe"
+  },
+  {
+   "cca2": "CA",
+   "lat": 60,
+   "lng": -95,
+   "subregion": "North America"
+  },
+  {
+   "cca2": "US",
+   "lat": 38,
+   "lng": -97,
+   "subregion": "North America"
+  },
+  {
+   "cca2": "MX",
+   "lat": 23,
+   "lng": -102,
+   "subregion": "North America"
+  },
+  {
+   "cca2": "BZ",
+   "lat": 17.25,
+   "lng": -88.75,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "GT",
+   "lat": 15.5,
+   "lng": -90.25,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "SV",
+   "lat": 13.83,
+   "lng": -88.92,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "HN",
+   "lat": 15,
+   "lng": -86.5,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "NI",
+   "lat": 13,
+   "lng": -85,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "CR",
+   "lat": 10,
+   "lng": -84,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "PA",
+   "lat": 9,
+   "lng": -80,
+   "subregion": "Central America"
+  },
+  {
+   "cca2": "JM",
+   "lat": 18.25,
+   "lng": -77.5,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "CU",
+   "lat": 21.5,
+   "lng": -80,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "BS",
+   "lat": 24.25,
+   "lng": -76,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "HT",
+   "lat": 19,
+   "lng": -72.42,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "DO",
+   "lat": 19,
+   "lng": -70.67,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "KN",
+   "lat": 17.33,
+   "lng": -62.75,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "AG",
+   "lat": 17.05,
+   "lng": -61.8,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "DM",
+   "lat": 15.42,
+   "lng": -61.33,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "LC",
+   "lat": 13.88,
+   "lng": -60.97,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "BB",
+   "lat": 13.17,
+   "lng": -59.53,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "VC",
+   "lat": 13.25,
+   "lng": -61.2,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "GD",
+   "lat": 12.12,
+   "lng": -61.67,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "TT",
+   "lat": 11,
+   "lng": -61,
+   "subregion": "Caribbean"
+  },
+  {
+   "cca2": "SR",
+   "lat": 4,
+   "lng": -56,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "GY",
+   "lat": 5,
+   "lng": -59,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "VE",
+   "lat": 8,
+   "lng": -66,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "CO",
+   "lat": 4,
+   "lng": -72,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "EC",
+   "lat": -2,
+   "lng": -77.5,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "PE",
+   "lat": -10,
+   "lng": -76,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "BO",
+   "lat": -17,
+   "lng": -65,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "BR",
+   "lat": -10,
+   "lng": -55,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "PY",
+   "lat": -23,
+   "lng": -58,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "CL",
+   "lat": -30,
+   "lng": -71,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "AR",
+   "lat": -34,
+   "lng": -64,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "UY",
+   "lat": -33,
+   "lng": -56,
+   "subregion": "South America"
+  },
+  {
+   "cca2": "NA",
+   "lat": -22,
+   "lng": 17,
+   "subregion": "Southern Africa"
+  },
+  {
+   "cca2": "AO",
+   "lat": -12.5,
+   "lng": 18.5,
+   "subregion": "Middle Africa"
+  },
+  {
+   "cca2": "BW",
+   "lat": -22,
+   "lng": 24,
+   "subregion": "Southern Africa"
+  },
+  {
+   "cca2": "ZA",
+   "lat": -29,
+   "lng": 24,
+   "subregion": "Southern Africa"
+  },
+  {
+   "cca2": "LS",
+   "lat": -29.5,
+   "lng": 28.5,
+   "subregion": "Southern Africa"
+  },
+  {
+   "cca2": "SZ",
+   "lat": -26.5,
+   "lng": 31.5,
+   "subregion": "Southern Africa"
+  },
+  {
+   "cca2": "ZW",
+   "lat": -20,
+   "lng": 30,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "ZM",
+   "lat": -15,
+   "lng": 30,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "MW",
+   "lat": -13.5,
+   "lng": 34,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "MZ",
+   "lat": -18.25,
+   "lng": 35,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "KM",
+   "lat": -12.17,
+   "lng": 44.25,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "MG",
+   "lat": -20,
+   "lng": 47,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "MU",
+   "lat": -20.28,
+   "lng": 57.55,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "SC",
+   "lat": -4.58,
+   "lng": 55.67,
+   "subregion": "Eastern Africa"
+  },
+  {
+   "cca2": "MV",
+   "lat": 3.25,
+   "lng": 73,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "LK",
+   "lat": 7,
+   "lng": 81,
+   "subregion": "Southern Asia"
+  },
+  {
+   "cca2": "SG",
+   "lat": 1.37,
+   "lng": 103.8,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "MY",
+   "lat": 2.5,
+   "lng": 112.5,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "BN",
+   "lat": 4.5,
+   "lng": 114.67,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "ID",
+   "lat": -5,
+   "lng": 120,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "TL",
+   "lat": -8.83,
+   "lng": 125.92,
+   "subregion": "South-Eastern Asia"
+  },
+  {
+   "cca2": "AU",
+   "lat": -27,
+   "lng": 133,
+   "subregion": "Australia and New Zealand"
+  },
+  {
+   "cca2": "NZ",
+   "lat": -41,
+   "lng": 174,
+   "subregion": "Australia and New Zealand"
+  },
+  {
+   "cca2": "VU",
+   "lat": -16,
+   "lng": 167,
+   "subregion": "Melanesia"
+  },
+  {
+   "cca2": "FJ",
+   "lat": -18,
+   "lng": 175,
+   "subregion": "Melanesia"
+  },
+  {
+   "cca2": "TO",
+   "lat": -20,
+   "lng": -175,
+   "subregion": "Polynesia"
+  },
+  {
+   "cca2": "WS",
+   "lat": -13.58,
+   "lng": -172.33,
+   "subregion": "Polynesia"
+  },
+  {
+   "cca2": "TV",
+   "lat": -8,
+   "lng": 178,
+   "subregion": "Polynesia"
+  },
+  {
+   "cca2": "KI",
+   "lat": 1.42,
+   "lng": 173,
+   "subregion": "Micronesia"
+  },
+  {
+   "cca2": "NR",
+   "lat": -0.53,
+   "lng": 166.92,
+   "subregion": "Micronesia"
+  },
+  {
+   "cca2": "MH",
+   "lat": 9,
+   "lng": 168,
+   "subregion": "Micronesia"
+  },
+  {
+   "cca2": "FM",
+   "lat": 6.92,
+   "lng": 158.25,
+   "subregion": "Micronesia"
+  },
+  {
+   "cca2": "SB",
+   "lat": -8,
+   "lng": 159,
+   "subregion": "Melanesia"
+  },
+  {
+   "cca2": "PG",
+   "lat": -6,
+   "lng": 147,
+   "subregion": "Melanesia"
+  },
+  {
+   "cca2": "PW",
+   "lat": 7.5,
+   "lng": 134.5,
+   "subregion": "Micronesia"
+  },
+  {
+   "cca2": "PH",
+   "lat": 13,
+   "lng": 122,
+   "subregion": "South-Eastern Asia"
+  }
+ ]
+}
